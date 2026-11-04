@@ -1,0 +1,6 @@
+sdk: ^2.0.0-alpha.199
+prefixes:
+  mcp23008: toit-mcp23008
+packages:
+  toit-mcp23008:
+    path: ..

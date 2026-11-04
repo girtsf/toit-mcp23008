@@ -1,0 +1,5 @@
+name: mcp23008
+description: Driver for the MCP23008 8-bit I2C GPIO expander.
+license: MIT
+environment:
+  sdk: ^2.0.0-alpha.199

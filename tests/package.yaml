@@ -1,0 +1,3 @@
+dependencies:
+  mcp23008:
+    path: ..
